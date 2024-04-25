@@ -60,3 +60,6 @@
 4.2 **Linjär optimering (Primal och Dual)**:
    - Implementering av linjär optimering för ett givet problem med både primal och dualmetoden.
    - Löser problemet med linjär optimering med hjälp av linjärprogrammering.
+
+
+## Sami Almousa
